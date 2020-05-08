@@ -1,0 +1,71 @@
+# Written by MakeHuman 1.1.1
+version v1.1.1
+tags ReeceMakeHuman1
+camera 15.5 353.0 0.0990641925976 0.816312125401 -0.0535526316313 3.5
+modifier breast/breast-trans-down|up 0.600000
+modifier eyes/l-eye-corner2-down|up 0.948000
+modifier eyes/l-eye-bag-in|out 0.742000
+modifier nose/nose-volume-decr|incr 0.238000
+modifier eyes/l-eye-eyefold-angle-down|up 0.380000
+modifier eyes/l-eye-epicanthus-in|out 0.974000
+modifier macrodetails-universal/Muscle 0.368000
+modifier mouth/mouth-scale-horiz-decr|incr 1.000000
+modifier macrodetails/African 0.000000
+modifier macrodetails-proportions/BodyProportions 0.684000
+modifier breast/nipple-point-decr|incr 1.000000
+modifier neck/neck-scale-depth-decr|incr -0.406000
+modifier eyes/r-eye-trans-in|out 0.070000
+modifier neck/neck-scale-horiz-decr|incr 1.000000
+modifier eyes/r-eye-bag-decr|incr 0.548000
+modifier macrodetails/Gender 1.000000
+modifier head/head-angle-in|out 0.406000
+modifier forehead/forehead-trans-backward|forward 0.420000
+modifier macrodetails-height/Height 0.632000
+modifier eyes/r-eye-eyefold-angle-down|up 0.380000
+modifier breast/BreastSize 0.374000
+modifier head/head-invertedtriangular 1.000000
+modifier nose/nose-hump-decr|incr 0.394000
+modifier eyes/r-eye-epicanthus-in|out 0.974000
+modifier nose/nose-septumangle-decr|incr 0.870000
+modifier eyes/l-eye-bag-decr|incr 0.548000
+modifier forehead/forehead-scale-vert-decr|incr -1.000000
+modifier nose/nose-nostrils-width-decr|incr 0.368000
+modifier macrodetails/Age 0.426000
+modifier eyes/l-eye-bag-height-decr|incr 0.446000
+modifier breast/BreastFirmness 0.500000
+modifier neck/neck-back-scale-depth-decr|incr 0.458000
+modifier macrodetails/Asian 0.000000
+modifier eyebrows/eyebrows-angle-down|up -0.470000
+modifier head/head-oval 0.219000
+modifier forehead/forehead-temple-decr|incr -0.458000
+modifier eyes/l-eye-trans-in|out 0.070000
+modifier eyes/l-eye-eyefold-concave|convex 0.690000
+modifier eyes/r-eye-corner2-down|up 0.948000
+modifier head/head-fat-decr|incr 0.290000
+modifier head/head-age-decr|incr 0.394000
+modifier macrodetails/Caucasian 1.000000
+modifier nose/nose-curve-concave|convex -0.252000
+modifier head/head-square 0.284000
+modifier eyes/r-eye-bag-in|out 0.742000
+modifier eyes/r-eye-eyefold-concave|convex 0.690000
+modifier eyes/r-eye-bag-height-decr|incr 0.446000
+modifier breast/nipple-size-decr|incr 1.000000
+modifier head/head-round 0.277000
+modifier mouth/mouth-lowerlip-width-decr|incr 0.354000
+modifier nose/nose-nostrils-angle-down|up -0.496000
+modifier nose/nose-compression-compress|uncompress -0.446000
+modifier head/head-back-scale-depth-decr|incr -0.664000
+modifier eyebrows/eyebrows-trans-backward|forward 0.354000
+modifier nose/nose-point-down|up 0.496000
+modifier head/head-scale-vert-decr|incr 0.330000
+modifier forehead/forehead-nubian-decr|incr 0.096000
+modifier chin/chin-bones-decr|incr 0.432000
+modifier macrodetails-universal/Weight 0.716000
+modifier nose/nose-greek-decr|incr 0.806000
+modifier mouth/mouth-scale-depth-decr|incr 0.600000
+modifier nose/nose-width3-decr|incr 0.046000
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothesHideFaces True
+skinMaterial skins/young_caucasian_female/young_caucasian_female2.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/blue.mhmat
+subdivide False
